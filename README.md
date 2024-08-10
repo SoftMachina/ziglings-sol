@@ -1,3 +1,5 @@
+My Ziglings solutions. Credit to the orignal creator of Ziglings: [Chris Boesch](https://codeberg.org/chrboesch)
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
